@@ -1,0 +1,327 @@
+#EXTM3U
+#EXTINF:0,FOX ACTION
+http://199.180.114.174:8000/foxa.m3u8
+#EXTINF:0,FOX 1
+http://199.180.114.174:8000/fox1.m3u8
+#EXTINF:0,FOX
+http://o12team.tk:8080/iptvlatam/foxclassics/index.m3u8
+#EXTINF:0,2.10.2015
+FOX
+#EXTINF:0,http://192.240.113.42:1935/live/canal016.stream/playlist.m3u8?username=.agustin&password=123
+FOX
+#EXTINF:0,http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
+30.9.2015
+#EXTINF:0,fox1
+http://158.255.6.224:8080/loadchan.php?chan=716&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:0,fox1
+http://158.255.6.224:8080/loadchan.php?chan=717&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:0,fox family
+http://158.255.6.224:8080/loadchan.php?chan=718&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:0,fox comedy
+http://158.255.6.224:8080/loadchan.php?chan=719&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:0,fox cinema
+http://158.255.6.224:8080/loadchan.php?chan=720&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:0,fox action
+http://158.255.6.224:8080/loadchan.php?chan=721&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:0,fox action
+http://158.255.6.224:8080/loadchan.php?chan=722&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:0,fox clasicc
+http://158.255.6.224:8080/loadchan.php?chan=724&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:0,27.9.2015
+fox
+#EXTINF:0,http://iptvlatam.cf/hls/fox/playlist.m3u8
+23.8.2015
+#EXTINF:0,fox
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,23.8.2015
+fox
+#EXTINF:0,http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
+22.8.2015
+#EXTINF:0,fox
+http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
+#EXTINF:0,#EXTM3U
+ #EXTINF:0 tvg-logo=”http://i.imgur.com/Gjynhpu.png”,24/7 Game of Thrones
+#EXTINF:0, http://veetle.com/index.php/hls/streamMbrFast/55be22ac98be1_/stream.m3u8
+ #EXTINF:0 tvg-logo=”http://channelpear.com/images/media/4.jpg”,***** Swim
+#EXTINF:0, http://*****swim-lh.akamaihd.net/i/*****swim_12@156963/master.m3u8
+ #EXTINF:0 tvg-logo=”http://channelpear.com/images/media/1347.jpg”,24/7 Simpsons
+#EXTINF:0, http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
+ #EXTINF:0 tvg-logo=”http://channelpear.com/images/media/7164.jpg”,Sci-Fi Shows
+#EXTINF:0, http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+ #EXTINF:0 tvg-logo=”http://channelpear.com/images/media/7185.jpg”,247 Retro
+#EXTINF:0, http://edge.streamspot.com:1935/live2/247retd41a/playlist.m3u8
+ #EXTINF:0 tvg-logo=”http://channelpear.com/images/media/6577.jpg”,Toonami Aftermath
+#EXTINF:0, http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+ #EXTINF:0 tvg-logo=”http://channelpear.com/images/media/4974.jpg”,24/7 Off the Air
+#EXTINF:0, http://*****swim-lh.akamaihd.net/i/*****swim_5@318514/master.m3u8
+ #EXTINF:0 tvg-logo=”http://channelpear.com/images/media/4835.jpg”,24/7 The Venture Bros.
+#EXTINF:0, http://*****swim-lh.akamaihd.net/i/*****swim_4@318519/master.m3u8
+24.7.2015
+#EXTINF:0,http://stream.primetime.to/hls/foxhd.m3u8
+17.7.2015
+#EXTINF:0,FOX
+http://tinyurl.com/p4ybokc
+#EXTINF:0,http://tinyurl.com/nlbq7nz 
+31.5.2015
+#EXTINF:0,FOX
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.52/live/ playpath=fifa15cl?keys=h_JM9rnQ6c9YsmK5hTSzgA&keyt=1433118287 swfUrl=http://static.vipi.tv/jwplayer.flash.swf live=1 pageUrl=http://watch.vipi.tv/?id=fifa15cl&width=610&height=420
+#EXTINF:0,18.5.2015
+#EXTM3U
+#EXTINF:0,#EXTINF?:-1 Fox 1 (US)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX MOVIES HD (US) 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,Fox Action (US) 
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX CINEMA (US) 
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,Fox Family (US)
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX CLASSICS (US) 
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:0,27.4.2015
+FOX Life HD
+#EXTINF:0,http://rostelec.noip.me:1234/udp/233.7.70.158:5000
+21.4.2015
+#EXTINF:0,FOX
+http://tv.yoooo.tv/onstream/R4Q93ZUT/182.m3u8
+#EXTINF:0,6.4.2015
+MUNDO FOX
+#EXTINF:0,http://66.55.92.79:1935/app/ana69s-channel/.m3u8
+2.4.2015
+#EXTINF:0,#EXTINF:-1 ,Fox 1 (US)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,Fox Action (US)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX CINEMA (US)
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,Fox Family (US)
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FOX CLASSICS (US)
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1 ,FILM ZONE HD (US)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1, ,DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:0,29.3.2015
+#EXTINF:0, Fox Action Movies HD
+#EXTINF:0,http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
+#EXTINF:0, Fox Movies Premium HD
+#EXTINF:0,http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
+25.3.2015
+#EXTINF:0,Fox Movies HD
+http://103.242.13.66:5000/nn_live.ts?id=supernet-m-h
+#EXTINF:0,FOX MOVIES ACTION HD 
+http://muratguler:mehmetkara@185.86.80.106:5002
+#EXTINF:0,FOX MOVIES PREMIUM HD
+http://muratguler:mehmetkara@185.86.80.106:5003
+#EXTINF:0,12.3.2015
+FOX ACTION
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8
+FOX FAM
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=343&lan=2&rows=40&f=.m3u8
+FOX PREM
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
+FOX
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=88&lan=2&rows=40&f=.m3u8
+FX HD
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=104&lan=2&rows=40&f=.m3u8
+HD720 FOX
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8
+HD720 FOX M
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=125&lan=2&rows=40&f=.m3u8
+HD720 FOX LIFE
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=169&lan=2&rows=40&f=.m3u8
+HD720 FOX1 HD
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
+HD720 FOX ACTION HD
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
+HD720 FOX MOVIE HD
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8
+HD720 FOX CINEMA
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=337&lan=2&rows=40&f=.m3u8
+HD720 FOX FAMILY
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=341&lan=2&rows=40&f=.m3u8
+HD720 FOX CLASSIC
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=345&lan=2&rows=40&f=.m3u8
+HD1024 FOX
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=86&lan=2&rows=40&f=.m3u8
+HD1024 FOX M
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=126&lan=2&rows=40&f=.m3u8
+HD1024 FOX LIFE
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=170&lan=2&rows=40&f=.m3u8
+HD1024 FOX1 HD
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=298&lan=2&rows=40&f=.m3u8
+HD1024 FOX ACTION HD
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+HD1024 FOX MOVIE HD
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=306&lan=2&rows=40&f=.m3u8
+HD1024 FOX CINEMA
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=338&lan=2&rows=40&f=.m3u8
+HD1024 FOX FAMILY
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=342&lan=2&rows=40&f=.m3u8
+HD1024 FOX CLASSIC
+#EXTINF:0,http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=346&lan=2&rows=40&f=.m3u8
+9.3.2015
+#EXTINF:0,FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:0,FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:0,FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:0,CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:0,TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:0,GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:0,FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:0,DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:0,AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:0,SPACE HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:0,19.2.2015
+For others old http://213.250.19.50 change to  http://cdn-02.sdn.si
+#EXTINF:0,FOXMOVIES
+http://cdn-02.sdn.si/foxmovies/foxmovies.isml/foxmovies-video=2500000-audio101=128000.m3u8
+#EXTINF:0,12.2.2015
+FOXMOVIES
+#EXTINF:0,http://213.250.19.50/foxmovies/foxmovies.isml/foxmovies-video=2500000-audio101=128000.m3u8
+21.1.2015
+#EXTINF:0,#EXTINF:0,HBO Adria
+http://agoSUL:agoSUL@176.31.233.230:81/hboadria
+#EXTINF:0,#EXTINF:0,HBO Comedy
+http://agoSUL:agoSUL@176.31.233.230:81/hbocomedy
+#EXTINF:0,#EXTINF:0,CINEMAX
+http://agoSUL:agoSUL@176.31.233.230:81/cinemax
+#EXTINF:0,#EXTINF:0,FOX
+http://agoSUL:agoSUL@176.31.233.230:81/fox
+#EXTINF:0,#EXTINF:0,FOX Crime
+http://agoSUL:agoSUL@176.31.233.230:81/foxcrime
+#EXTINF:0,#EXTINF:0,FOX Life
+http://agoSUL:agoSUL@176.31.233.230:81/foxlife
+#EXTINF:0,#EXTINF:0,FOX Movies
+http://agoSUL:agoSUL@176.31.233.230:81/foxmovies
+#EXTINF:0,#EXTINF:0,AXN
+http://agoSUL:agoSUL@176.31.233.230:81/axn
+#EXTINF:0,25.9.2014
+FOX HD
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p
+Fox News HD
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr
+Fox News
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam
+FOX
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky
+HBO HD
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
+HBO
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz
+Syfy
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw
+Syfy HD
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
+TNT HD
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3
+TNT
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo
+23.9.2014
+#EXTINF:0,SYFY English
+rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
+#EXTINF:0,CARTOON NETWORK
+rtmp://93.174.95.125:1935/edge/_definst_/p78zj79dhlxx3ws
+#EXTINF:0,MSNBC
+rtmp://93.174.95.125:1935/edge/_definst_/1341ujtliqndod8
+#EXTINF:0,NCIS all seasons
+rtmp://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa
+#EXTINF:0,Jackie Chan
+rtmp://93.174.95.125:1935/edge/_definst_/aq6ijlszct7wfl4
+#EXTINF:0,Jackie Chan movies
+rtmp://93.174.95.125:1935/edge/_definst_/gby01m6h4xd3lag
+#EXTINF:0,History
+rtmp://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6
+#EXTINF:0,Food Network
+rtmp://93.174.95.125:1935/edge/_definst_/ibnnu7537h3ax6e
+#EXTINF:0,Vietnamese Music hot girl
+rtmp://93.174.95.125:1935/edge/_definst_/9r8266ecbqwd10s
+#EXTINF:0,Korean Music
+rtmp://93.174.95.125:1935/edge/_definst_/q32r221dgpcok07
+#EXTINF:0,Fox Movie Channel
+rtmp://93.174.95.125:1935/edge/_definst_/hc992q7x7cz86t9
+#EXTINF:0,FİRENDS
+rtmp://93.174.95.125:1935/edge/_definst_/wg2fmaake2sfjbr
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m
+Showtime movies
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
+ABC Family
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8
+Bleach anime full
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/cqq87pn1lkxra4k
+AMC – The Walking Dead
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m
+That’s 70 show
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/t7ha4ghb4ilwaoo
+Hero Hoc*** World League
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf
+Disney channel English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2
+CNBC English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/5vnuyn0qrl8vty7
+ABC Network English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b
+HBO Movies English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
+Showtime movies English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
+AMC English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m
+Starz USA English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/jw0ygi8ojhsw1t3
+Animal Planet English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/41i3ymbmum28xfk
+CW English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/kcizip7f2d6zh6l
+Fox Movie Channel English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/hc992q7x7cz86t9
+HBO Comedy movie English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0
+King of queens English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/yytqkp7711cd1ze
+HGTV English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/1us9w7y80d8muuq
+WWE RAW REPLAY ALWAYSROCKING English
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/17qm6kmcv8un5it
+StarMovie Asia
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/t7ha4ghb4ilwaoo
+KİMBİNHMAİ
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/6jxqdje7ancmghe
+Korean Music
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/q32r221dgpcok07
+Japanese Super Stars music
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/bzh4mr1zt40hmw4
+Hongkong Cat III channel 2
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/gby01m6h4xd3lag
+Dragon Balll Z
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/y9f0p4tvi2hwoxy
+Dragon Ball
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/15jvbu6lxtgwrcq
+StarZ movie channel
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/8g7x80ozu6hz2ds
+Detective Conan the movies
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/shserslj4yhr7ig
+Bravo
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l
+Spike
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz
+USA
+#EXTINF:0,rtmp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq
+
